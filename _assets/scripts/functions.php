@@ -7,6 +7,6 @@ function loadform() {
     echo '</form>';
 }
 function databaseconnect() {
-    mysqli_connect("localhost","root","","testdb");
+    
 }
 ?>
